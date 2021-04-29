@@ -1,8 +1,10 @@
 ## Rafael Swiderski
 
   I am a Graduate Software Developer from Makers Academy who takes pride in expanding their understanding of all things tech. I've been exposed to coding before Makers at my previous job, and I've really enjoyed retraining as a Junior Developer. 
-  I've learnt to build web apps in an agile team with programming languages such as Javascript, HTML, CSS, and Ruby. I'm using frameworks such as React, Ruby on Rails, NodeJS, and JQuery. I've learnt to fetch and receive information from APIs, to use databases such as Postgresql and MongoDB, most of all I've learnt to persevere with coding problems and know that everything is explainable when you break it down. I've discovered I really enjoy working with other people and making things that I am proud of.
-  I've been fascinated by technology since I can remember and I'm excited to see where this coding journey takes me, and where the industry goes from here.
+  
+  I've learnt to build web apps in an agile team with programming languages such as Javascript, HTML, CSS, and Ruby. I'm using frameworks such as React, Ruby on Rails, NodeJS, and JQuery. I've learnt to fetch and receive information from APIs, to use databases such as Postgresql and MongoDB, most of all I've learnt to persevere with coding problems and know that everything is explainable when you break it down. 
+  
+  I've discovered I really enjoy working with other people and making things that I am proud of. I've been fascinated by technology since I can remember and I'm excited to see where this coding journey takes me, and where the industry goes from here.
 
 
 
