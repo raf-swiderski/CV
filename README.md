@@ -1,8 +1,8 @@
 ## Raf Swiderski CV
 
-- [Makers](#About Makers)
+- [Makers](#AboutMakers)
 - [Projects](#Projects)
-- [Life Before Makers, Work Experience](#Life Before Makers)
+- [Life Before Makers, Work Experience](#LifeBeforeMakers)
 - [Skills](#Skills)
 - [Education](#Education)
 
