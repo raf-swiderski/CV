@@ -5,7 +5,19 @@
   I've learnt to build web apps in an agile team with programming languages such as Javascript, HTML, CSS, and Ruby. I'm using frameworks such as React, Ruby on Rails, NodeJS, and JQuery. I've learnt to fetch and receive information from APIs, to use databases such as Postgresql and MongoDB, most of all I've learnt to persevere with coding problems and know that everything is explainable when you break it down. 
   
   I've discovered I really enjoy working with other people and making things that I am proud of. I've been fascinated by technology since I can remember and I'm excited to see where this coding journey takes me, and where the industry goes from here
+  
+### Makers:
+(Jan -> April 2021) 
 
+Makers is a full-time intensive Software/Web Development course.
+
+Over the course we covered:
+- Languages such as Javascript, Ruby, HTML, CSS
+- Databases (SQL)
+- Testing Frameworks (Jasmine, Rspec, Capybara)
+- Plus topics such as OOP, TDD, Domain Modelling, MVC
+- Frameworks such as React, Jquery, Ruby On Rails, NodeJS
+- Using APIs to get & post data
 
 
 ## Projects
@@ -13,19 +25,33 @@
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
 | **CookWars**                 | A webapp recipe website that teaches you to cook, and rewards you with points nd levels. | React, NodeJS |
-| **Something else worked on** | A webapp to do y. | Ruby              |
+| **Airport Challenge** | An app to organise the safe landing of planes at an airport (work in progress). | Ruby              |
 
-## Work Experience
+## Life Before Makers, Work Experience
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**Calculus8** (Jan 2020 to July 2020)  
+_Sound Engineer_
 
 - Any experience, including roles and responsibilities and results achived in bullet point format.
+- Creating immersive audio production tools for musicians / music creators. 
+- Working in an agile team with software engineers & musicians to deliver on user requirements.
+- Liased with potiential clients to promote the idea of using 3D audio for music tracks, and to create music using our software.
+- Secured funding for an InnovateUK grant for tech startups.
+ 
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**Santi - Feature Film** (November 2020 to June 2021)  
+_Sound Designer_
 
-- Any experience relevent to software development
+- Head of sound department on a Colombia-British film collaboration. 
+- Responsible for creating & recording sounds for the film.
+- Part of a crew of 24+ working on set.
+- Film secured £10k+ of funding from private donors. 
+
+**Global Returns Project** (September 2020 to December 2020)  
+_Video Producer, Director_
+
+- Directing and producing a series of informative, promotional videos for the Global Returns Project.
+- The project works with financial institutions to convince people with savings & investments to give 0.25% of their money to climate solutions. 
 
 ## Skills
 
