@@ -1,6 +1,6 @@
 ## Raf Swiderski CV
 
-- [Makers](#AboutMakers)
+- [Makers Academy](#AboutMakers)
 - [Projects](#Projects)
 - [Life Before Makers, Work Experience](#LifeBeforeMakers)
 - [Skills](#Skills)
@@ -15,7 +15,7 @@
   I've discovered I really enjoy working with other people and making things that I am proud of. I've been fascinated by technology since I can remember and I'm excited to see where this coding journey takes me, and where the industry goes from here
   
 ### About Makers:
-(Jan -> April 2021) 
+Jan -> April 2021 
 
 Makers is a full-time intensive Software/Web Development course.
 
@@ -23,9 +23,9 @@ Over the course we covered:
 - Languages such as Javascript, Ruby, HTML, CSS
 - Databases (SQL)
 - Testing Frameworks (Jasmine, Rspec, Capybara)
-- Plus topics such as OOP, TDD, Domain Modelling, MVC
+- Concepts such as OOP, TDD, Domain Modelling, MVC
 - Frameworks such as React, Jquery, Ruby On Rails, NodeJS
-- Using APIs to get & post data
+- Using APIs to recieve & post data
 
 
 ## Projects
@@ -33,7 +33,7 @@ Over the course we covered:
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
 | **CookWars**                 | A webapp recipe website that teaches you to cook, and rewards you with points nd levels. | React, NodeJS |
-| **Airport Challenge** | An app to organise the safe landing of planes at an airport (work in progress). | Ruby              |
+| **Airport Challenge** | An app to organise the safe landing of planes at an airport (work in progress). :plane:| Ruby              |
 
 ## Life Before Makers, Work Experience
 
