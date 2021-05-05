@@ -32,7 +32,6 @@ Over the course we covered:
 **Calculus8** (Jan 2020 to July 2020)  
 _Sound Engineer_
 
-- Any experience, including roles and responsibilities and results achived in bullet point format.
 - Creating immersive audio production tools for musicians / music creators. 
 - Working in an agile team with software engineers & musicians to deliver on user requirements.
 - Liased with potiential clients to promote the idea of using 3D audio for music tracks, and to create music using our software.
