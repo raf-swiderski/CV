@@ -1,3 +1,11 @@
+## Raf Swiderski CV
+
+- [Makers](#About Makers:)
+- [Projects](#Projects)
+- [Life Before Makers, Work Experience](#Life Before Makers, Work Experience)
+- [Skills](#Skills)
+- [Education](#Education)
+
 ## Rafael Swiderski
 
   I am a Graduate Software Developer from Makers Academy who takes pride in expanding their understanding of all things tech. I've been exposed to coding before Makers at my previous job, and I've really enjoyed retraining as a Junior Developer. 
@@ -6,7 +14,7 @@
   
   I've discovered I really enjoy working with other people and making things that I am proud of. I've been fascinated by technology since I can remember and I'm excited to see where this coding journey takes me, and where the industry goes from here
   
-### Makers:
+### About Makers:
 (Jan -> April 2021) 
 
 Makers is a full-time intensive Software/Web Development course.
