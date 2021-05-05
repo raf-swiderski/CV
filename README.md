@@ -4,7 +4,7 @@
   
   I've learnt to build web apps in an agile team with programming languages such as Javascript, HTML, CSS, and Ruby. I'm using frameworks such as React, Ruby on Rails, NodeJS, and JQuery. I've learnt to fetch and receive information from APIs, to use databases such as Postgresql and MongoDB, most of all I've learnt to persevere with coding problems and know that everything is explainable when you break it down. 
   
-  I've discovered I really enjoy working with other people and making things that I am proud of. I've been fascinated by technology since I can remember and I'm excited to see where this coding journey takes me, and where the industry goes from here.
+  I've discovered I really enjoy working with other people and making things that I am proud of. I've been fascinated by technology since I can remember and I'm excited to see where this coding journey takes me, and where the industry goes from here
 
 
 
@@ -12,7 +12,7 @@
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
+| **CookWars**                 | A webapp recipe website that teaches you to cook, and rewards you with points nd levels. | React, NodeJS |
 | **Something else worked on** | A webapp to do y. | Ruby              |
 
 ## Work Experience
