@@ -42,7 +42,7 @@ _Sound Engineer_
 
 - Creating immersive audio production tools for musicians / music creators. 
 - Working in an agile team with software engineers & musicians to deliver on user requirements.
-- Liased with potiential clients to promote the idea of using 3D audio for music tracks, and to create music using our software.
+- Liased with potiential clients to promote the idea of using 3D audio for music tracks, and to create music using 3D audio software.
 - Secured funding for an InnovateUK grant for tech startups.
  
 
@@ -53,13 +53,13 @@ _Sound Designer_
 - Head of sound department on a Colombia-British film collaboration. 
 - Responsible for creating & recording sounds for the film.
 - Part of a crew of 24+ working on set.
-- Film secured £10k+ of funding from private donors. 
+- The production secured £10k+ of funding from private donors. 
 
 **Global Returns Project** :earth_africa: (September 2020 to December 2020) 
 _Video Producer, Director_
 
 - Directing and producing a series of informative, promotional videos for the Global Returns Project.
-- The project works with financial institutions to convince people with savings & investments to give 0.25% of their money to climate solutions. 
+- The project works with financial institutions to convince people with savings & investments to give 0.25% of their total savings to climate solutions. 
 
 ## Skills :surfer:
 
