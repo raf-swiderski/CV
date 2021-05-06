@@ -1,6 +1,6 @@
 ## Raf Swiderski CV
 
-- [Makers Academy](#AboutMakers)
+- [About Makers](#AboutMakers)
 - [Projects](#Projects)
 - [Life Before Makers, Work Experience](#LifeBeforeMakers)
 - [Skills](#Skills)
@@ -14,7 +14,7 @@
   
   I've discovered I really enjoy working with other people and making things that I am proud of. I've been fascinated by technology since I can remember and I'm excited to see where this coding journey takes me, and where the industry goes from here
   
-### About Makers:
+### About Makers
 Jan -> April 2021 
 
 Makers is a full-time intensive Software/Web Development course.
