@@ -27,8 +27,12 @@ Over the course we covered:
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **CookWars**                 | A webapp recipe website that teaches you to cook, and rewards you with points and levels. | React, NodeJS |
-| **Airport Challenge** | An app to organise the safe landing of planes at an airport (work in progress). :airplane:| Ruby            |
+| **CookWars (Final Project)**                 | A webapp recipe website that teaches you to cook, and rewards you with points and levels. | React, NodeJS |
+| **Airport** | An app to organise the safe landing of planes at an airport (work in progress). :airplane:| Ruby            |
+| **Acebook App** | An app that replicates Facebook at a basic level!| Ruby On Rails, HTML, JS, CSS |
+| **Notes App** | Note-taking app | Javascript, HTML, CSS           |
+| **Chitter** | A replica of twitter, with basic post CRUD functionality | Ruby, JS, HTML, CSS            |
+
 
 ## Life Before Makers, Work Experience
 
