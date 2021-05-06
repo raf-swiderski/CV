@@ -23,7 +23,7 @@ Over the course we covered:
 - Using APIs to recieve & post data
 
 
-## Projects
+## Projects :hammer_and_wrench:	
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
@@ -32,7 +32,8 @@ Over the course we covered:
 
 ## Life Before Makers, Work Experience
 
-**Calculus8** (Jan 2020 to July 2020) :computer:  
+**Calculus8** :computer: (Jan 2020 to July 2020) 
+
 _Sound Engineer_
 
 - Creating immersive audio production tools for musicians / music creators. 
@@ -41,7 +42,8 @@ _Sound Engineer_
 - Secured funding for an InnovateUK grant for tech startups.
  
 
-**Santi - Feature Film** (November 2020 to June 2021) :movie_camera:
+**Santi - Feature Film** :movie_camera: (November 2020 to June 2021) 
+
 _Sound Designer_
 
 - Head of sound department on a Colombia-British film collaboration. 
@@ -49,13 +51,13 @@ _Sound Designer_
 - Part of a crew of 24+ working on set.
 - Film secured £10k+ of funding from private donors. 
 
-**Global Returns Project** (September 2020 to December 2020) :earth_africa:
+**Global Returns Project** :earth_africa: (September 2020 to December 2020) 
 _Video Producer, Director_
 
 - Directing and producing a series of informative, promotional videos for the Global Returns Project.
 - The project works with financial institutions to convince people with savings & investments to give 0.25% of their money to climate solutions. 
 
-## Skills
+## Skills :surfer:
 
 Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
 (Using a STAR example Paragraph) Consider the questions below.
