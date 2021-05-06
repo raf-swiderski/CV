@@ -1,4 +1,7 @@
-## Rafael Swiderski CV
+## Rafael Swiderski CV 
+
+- :mailbox: rafswid@me.com
+- :file_folder: [GitHub Repos](https://github.com/raf-swiderski?tab=repositories)
 
   I am a Graduate Software Developer from Makers Academy who takes pride in expanding their understanding of all things tech. I've been exposed to coding before Makers at my previous job, and I've really enjoyed retraining as a Junior Developer. 
   
@@ -6,7 +9,7 @@
   
   I've discovered I really enjoy working with other people and making things that I am proud of. I've been fascinated by technology since I can remember and I'm excited to see where this coding journey takes me, and where the industry goes from here
   
-## About Makers
+## About Makers :mortar_board:
 Jan -> April 2021 
 
 Makers is a full-time intensive Software/Web Development course.
@@ -29,7 +32,7 @@ Over the course we covered:
 
 ## Life Before Makers, Work Experience
 
-**Calculus8** (Jan 2020 to July 2020)  
+**Calculus8** (Jan 2020 to July 2020) :computer:  
 _Sound Engineer_
 
 - Creating immersive audio production tools for musicians / music creators. 
@@ -38,7 +41,7 @@ _Sound Engineer_
 - Secured funding for an InnovateUK grant for tech startups.
  
 
-**Santi - Feature Film** (November 2020 to June 2021)  
+**Santi - Feature Film** (November 2020 to June 2021) :movie_camera:
 _Sound Designer_
 
 - Head of sound department on a Colombia-British film collaboration. 
@@ -46,7 +49,7 @@ _Sound Designer_
 - Part of a crew of 24+ working on set.
 - Film secured £10k+ of funding from private donors. 
 
-**Global Returns Project** (September 2020 to December 2020)  
+**Global Returns Project** (September 2020 to December 2020) :earth_africa:
 _Video Producer, Director_
 
 - Directing and producing a series of informative, promotional videos for the Global Returns Project.
