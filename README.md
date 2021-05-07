@@ -65,23 +65,23 @@ _Video Producer, Director_
 
 ## Skills :surfer:
 
-#### Communication
+#### Communication :speech_balloon:
 
 During my time at Calculus8, I had to convey to potential clients/colleagues the use and adaptability of 3D audio. I had to thoroughly study the current technologies on the market, the complex engineering and research behind the software that allowed musicians/users to create 3D audio, and the innovations this technology brings.
 I commicated how 3D audio worked in the most understandable terms for a number of the company's stakeholders, and what the software had to offer.
 
-#### Problem Solving
+#### Problem Solving :gear:
 
 I've always enjoyed working on projects that test my capabilities with finding solutions to problems. Most of my time spent at University and working on sound projects involved finding solutions to practical problems that recording and sound capture brought up. For example, during preproduction for a feature film, I had to draw up a minute-by-minute plan of when and how we were to record the dialogue for all the characters on set. This involved a full timeline for the movement of each character and at what volume they spoke.
 Where sound production involves practical problem solving, software development is digital problem solving, and my time spent retraining as a Junior Dev has only set in stone the desire to improve my problem solving skills. 
 
-#### Willingness to Learn
+#### Willingness to Learn :pencil2:
 
 During my time at previous jobs and **especially** Makers, I have learnt that I am capable of taking on new concepts and ideas and that I can keep pace in my environment. After learning a large amount in a very short space of time I now feel like I'm suited to a place in a fast-changing tech industry. Aside from Makers, at my previous job I had to demonstrate the knowledge of how 3D audio worked to the company's various stakeholders, and I had to pick up the concepts behind the 5 year long s3a research project that the company was founded from. 
 
-## Education
+## Education :mortar_board:
 
-#### Falmouth University (Sep 2016 to July 2019)
+#### Falmouth University (Sep 2016 to July 2019) 
 
 - Music Technology BAhons (2.1)
 - Studiocraft (Music Production)
@@ -89,7 +89,7 @@ During my time at previous jobs and **especially** Makers, I have learnt that I 
 - Sound Engineering & Acoustics
 - Dissertation (1st)
 
-### Other qualifications
+### Other qualifications :chart_with_upwards_trend:
 
 - Qualified Ski Instructor with CSIA Level 2 (2016)
 - Grade 8 Acoustic Guitar RGA
@@ -98,8 +98,8 @@ During my time at previous jobs and **especially** Makers, I have learnt that I 
 
 ## Hobbies
 
-- Surfing
-- Windsurfing
-- Playing live music
-- Skiing 
-- Football
+- Surfing 🏄‍
+- Windsurfing :cyclone:
+- Playing live music :guitar:
+- Skiing :skier:
+- Football :soccer:
