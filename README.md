@@ -44,7 +44,7 @@ _Sound Engineer_
 - Creating 3D AR immersive audio production tools for musicians / music creators. 
 - The product: Musicians/producers could mix audio using an augmented reality spatial audio mixing tool in 3D object-based audio.
 - Working in an agile team with software engineers & musicians to deliver on user requirements.
-- Liased with potiential clients to promote the idea of using 3D audio for music tracks, and to create music using 3D audio software.
+- Liaised with potential clients to promote the idea of using 3D audio for music tracks, and to create music using 3D audio software.
 - The company was the commercial arm of a 5 year research project funded by InnovateUk and the BBC (S3A).
 - Our team secured funding for an extra InnovateUK grant for tech startups.
 
