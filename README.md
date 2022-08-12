@@ -37,17 +37,19 @@ Over the course we covered:
 
 ## Work & Experience
 
-**Inploi** (August 2022 to present)
+**Inploi** :computer: (August 2022 to present)
 _Intern_
 - London-based tech startup.
 - Inploi facilitates online talent attraction. They have a suite of SaaS products which help leading brands to attract, engage, and convert job seekers, with extensive data and reporting underpinning their solutions. 
 - Clients such as Butlins, Wagamamas.
 
-**Coding Projects** (Jan 2022 to present)
+**Coding Projects** :computer: (Jan 2022 to present)
 These are a set of projects I’ve been engineering, some in a team and some by myself, for fun but also to expand my understanding and skills.
 
+**Lifesearch** (June 2021 to August 2021) 
+_Podcast Editor_ :microphone:
 
-**Santi - Feature Film** :movie_camera: (November 2020 to June 2021) 
+**Santi - Feature Film** :movie_camera: (June 2021 to August 2021) 
 _Sound Designer_
 - Head of sound department on a Colombia-British film collaboration. 
 
