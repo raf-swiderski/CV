@@ -3,9 +3,9 @@
 - :mailbox: rafswid@me.com
 - :file_folder: [GitHub Repos](https://github.com/raf-swiderski?tab=repositories)
 
-  I am a Graduate Software Developer from Makers Academy who takes pride in expanding their understanding of all things tech. I've been exposed to coding before Makers at my previous job, and I've really enjoyed retraining as a Junior Developer. 
+  I am a graduate from Makers Academy who takes pride in expanding their understanding of all things tech. I've been exposed to coding before Makers at my previous job, and I've really enjoyed retraining as a Software Engineer. 
   
-  I've learnt to build web apps in an agile team with programming languages such as Javascript, HTML, CSS, and Ruby. I'm using frameworks such as React, Ruby on Rails, NodeJS, and JQuery. I've learnt to fetch and receive information from APIs, to use databases such as PostgreSQL and MongoDB, most of all I've learnt to persevere with coding problems and know that everything is explainable when you break it down. 
+  I've learnt to build web apps in an agile team with programming languages such as Javascript, HTML, CSS, and Ruby. I'm using frameworks/libraries such as React, Next.js, Rails, Node, and Express.
   
   I've discovered I really enjoy working with other people and making things that I am proud of. I've been fascinated by technology since I can remember and I'm excited to see where this coding journey takes me, and where the industry goes from here.
   
@@ -17,54 +17,55 @@ Makers is a full-time intensive Software/Web Development course.
 Over the course we covered:
 - [x] Languages such as Javascript, Ruby, HTML, CSS
 - [x] Databases (PostgreSQL)
-- [x] Testing Frameworks (Jasmine, Rspec, Capybara)
-- [x] Concepts such as OOP, TDD, Domain Modelling, MVC
-- [x] Frameworks such as React, Jquery, Ruby On Rails, NodeJS
-- [x] Using APIs to recieve & post data
-- [x] How to work effectively in an agile team
+- [x] Testing Frameworks (Jasmine, Rspec, Mocha, Jest)
+- [x] Concepts such as OOP, TDD, MVP, Domain Modelling, MVC
+- [x] Frameworks/Libraries such as React, Jquery, Ruby On Rails, NodeJS
+- [x] Integrating APIs into our apps.
+- [x] How to work effectively in an agile team.
 - [x] Version control with git / github
 
 ## Projects :hammer_and_wrench:	
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **CookWars (Final Project)**                 | A webapp recipe website that teaches you to cook, and rewards you with points and levels. | React, NodeJS |
-| **Airport** | An app to organise the safe landing of planes at an airport (work in progress). :airplane:| Ruby            |
+| **FPL Team Builder**                 | A webapp which is a team-builder for your fantasy football team. | React, Next.js, Node.js |
+| **Slopify** | An app which provides the user with their listening data of favourite artists and tracks| JS, Node, JQuery            |
 | **Acebook App** | An app that replicates Facebook at a basic level!| Ruby On Rails, HTML, JS, CSS |
-| **Notes App** | Note-taking app | Javascript, HTML, CSS           |
-| **Chitter**:bird: | A replica of twitter, with basic post CRUD functionality | Ruby, JS, HTML, CSS            |
+| **GitHub Language** | An app which uses the GitHub API to calculate / guess the favourite languages of a given GitHub user, and provides them with basic analytics. | Javascript, Node.js, HTML, CSS           |
+| **Chitter**:bird: | A replica of twitter, with basic CRUD functionality | Ruby, JS, HTML, CSS            |
 
 
-## Life Before Makers, Work Experience
+## Work & Experience
+
+**Inploi** (August 2022 to present)
+_Intern_
+- London-based tech startup.
+- Inploi facilitates online talent attraction. They have a suite of SaaS products which help leading brands to attract, engage, and convert job seekers, with extensive data and reporting underpinning their solutions. 
+- Clients such as Butlins, Wagamamas.
+
+**Coding Projects** (Jan 2022 to present)
+These are a set of projects I’ve been engineering, some in a team and some by myself, for fun but also to expand my understanding and skills.
+
+
+**Santi - Feature Film** :movie_camera: (November 2020 to June 2021) 
+_Sound Designer_
+- Head of sound department on a Colombia-British film collaboration. 
+
+**Makers** (Jan 2021 to April 2021)
+
+**Global Returns Project** :earth_africa: (September 2020 to December 2020) 
+_Video Producer, Director_
+- Directing and producing a series of informative, promotional videos for the Global Returns Project.
+- The project works with financial institutions to convince people with savings & investments to give 0.25% of their total savings to climate solutions. 
 
 **Calculus8** :computer: (Jan 2020 to July 2020) 
-
 _Sound Engineer_
-
 - Creating 3D AR immersive audio production tools for musicians / music creators. 
 - The product: Musicians/producers could mix audio using an augmented reality spatial audio mixing tool in 3D object-based audio.
 - Working in an agile team with software engineers & musicians to deliver on user requirements.
 - Liaised with potential clients to promote the idea of using 3D audio for music tracks, and to create music using 3D audio software.
 - The company was the commercial arm of a 5 year research project funded by InnovateUk and the BBC (S3A).
 - Our team secured funding for an extra InnovateUK grant for tech startups.
-
-
-**Santi - Feature Film** :movie_camera: (November 2020 to June 2021) 
-
-_Sound Designer_
-
-- Head of sound department on a Colombia-British film collaboration. 
-- Responsible for creating & recording sounds for the film.
-- Part of a crew of 24+ working on set.
-- The production secured £10k+ of funding from private donors. 
-
-**Global Returns Project** :earth_africa: (September 2020 to December 2020) 
-
-_Video Producer, Director_
-
-- Directing and producing a series of informative, promotional videos for the Global Returns Project.
-- The project works with financial institutions to convince people with savings & investments to give 0.25% of their total savings to climate solutions. 
-
 ## Skills :surfer:
 
 #### Communication :speech_balloon:
