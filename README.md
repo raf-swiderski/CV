@@ -37,7 +37,7 @@ Over the course we covered:
 
 ## Work & Experience
 
-**Inploi** :computer: (August 2022 to present)
+**Inploi** :computer: (August 2022 to Sept 2022)
 _Intern_
 - London-based tech startup.
 - Inploi facilitates online talent attraction. They have a suite of SaaS products which help leading brands to attract, engage, and convert job seekers, with extensive data and reporting underpinning their solutions. 
